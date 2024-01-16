@@ -1,5 +1,5 @@
 # Shopping-Cart
-A shopping cart using c++ where we can add products and a systematic discount rule is applied according to the input data and product size.
+A shopping cart using c++ & javascript where we can add products and a systematic discount rule is applied according to the input data and product size.
 
 Steps to Use the program->
 
